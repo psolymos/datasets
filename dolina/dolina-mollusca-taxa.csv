@@ -1,0 +1,52 @@
+codes,rank,phylum,class,order,suborder,superfamily,family,subfamily,genus,subgenus,species,author,scientific.name,utm.prop,protected
+aacu,aacu,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Pupilloidea,Valoniidae,Acanthinulinae,Acanthinula,xxxAcanthinula,aculeata,"(O. F. Müller, 1774)",Acanthinula aculeata,0.173,0
+amin,amin,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Gastrodontoidea,Oxychilidae,Gondwiniinae,Aegopinella,xxxAegopinella,minor,"(Stabile, 1864)",Aegopinella minor,0.333,0
+apol,apol,species,Mollusca,Gastropoda,Architaenioglossa,xxxArchitaenioglossa,Cyclophoroidea,Aciculidae,xxxAciculidae,Platyla,xxxPlatyla,polita,(W. Hartmann 1840),Platyla polita,0.048,0
+apur,apur,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Gastrodontoidea,Oxychilidae,Gondwiniinae,Aegopinella,xxxAegopinella,pura,"(Alder, 1830)",Aegopinella pura,0.123,0
+bbip,bbip,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Clausilioidea,Clausiliidae,Baleinae,Alinda,Alinda,biplicata,"(Montagu, 1803)",Alinda biplicata,0.207,0
+bcan,bcan,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Clausilioidea,Clausiliidae,Baleinae,Bulgarica,Strigilecula,cana,"(Held, 1836)",Bulgarica cana,0.022,0
+ccer,ccer,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Clausilioidea,Clausiliidae,Alopiinae,Cochlodina,Paracochlodina,cerata,"(Rossmässler, 1836)",Cochlodina cerata,0.034,1
+cdub,cdub,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Clausilioidea,Clausiliidae,Clausiliinae,Clausilia,xxxClausilia,dubia,"Draparnaud, 1805",Clausilia dubia,0.092,0
+cede,cede,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Pupilloidea,Vertiginidae,Truncatellininae,Columella,xxxColumella,edentula,(Draparnaud 1805),Columella edentula,0.109,0
+clam,clam,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Clausilioidea,Clausiliidae,Alopiinae,Cochlodina,Cochlodina,laminata,"(Montagu, 1803)",Cochlodina laminata,0.271,0
+cmin,cmin,species,Mollusca,Gastropoda,Pulmonata,Acteophila,Elloboidea,Carychiidae,xxxCarychiidae,Carychium,xxxCarychium,minimum,"O. F. Müller, 1774",Carychium minimum,0.355,0
+cort,cort,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Clausilioidea,Clausiliidae,Alopiinae,Cochlodina,Paracochlodina,orthostoma,"(Menke, 1830)",Cochlodina orthostoma,0.022,1
+cpum,cpum,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Clausilioidea,Clausiliidae,Clausiliinae,Clausilia,xxxClausilia,pumila,"C. Pfeiffer, 1828",Clausilia pumila,0.123,0
+ctri,ctri,species,Mollusca,Gastropoda,Pulmonata,Acteophila,Elloboidea,Carychiidae,xxxCarychiidae,Saraphia,xxxSaraphia,tridentatum,"(Risso, 1826)",Saraphia tridentatum,0.208,0
+cvin,cvin,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Helicoidea,Helicidae,Helicinae,Cepaea,Austrotachea,vindobonensis,(C. Pfeiffer 1828),Cepaea vindobonensis,0.623,0
+dbre,dbre,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Gastrodontoidea,Oxychilidae,Daudebardiinae,Daudebardia,xxxDaudebardia,brevipes,"(Draparnaud, 1805)",Daudebardia brevipes,0.066,0
+dper,dper,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Punctoidea,Patulidae,xxxPatulidae,Discus,Gonyodiscus,perspectivus,"(Megerle von Mühlfeld, 1816)",Discus perspectivus,0.123,0
+druf,druf,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Gastrodontoidea,Oxychilidae,Daudebardiinae,Daudebardia,xxxDaudebardia,rufa,"(Draparnaud, 1805)",Daudebardia rufa,0.142,0
+eful,eful,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Gastrodontoidea,Euconulidae,Euconulinae,Euconulus,xxxEuconulus,fulvus,"(O. F. Müller, 1774)",Euconulus fulvus,0.24,0
+estr,estr,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Helicoidea,Hygromiidae,Monachinae,Euomphalia,xxxEuomphalia,strigella,"(Draparnaud, 1801)",Euomphalia strigella,0.295,0
+ffau,ffau,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Helicoidea,Helicidae,Ariantinae,Faustina,xxxFaustina ,faustinum,"(Rossmässler, 1836)",Faustina faustinum,0.035,0
+hobv,hobv,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Helicoidea,Helicodontidae,Helicodontinae,Helicodonta,xxxHelicodonta,obvoluta,"(O. F. Müller, 1774)",Helicodonta obvoluta,0.089,0
+iiso,iiso,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Helicoidea,Helicidae,Ariantinae,Isognomostoma,xxxAriantinae,isognomostomos,"(Schröter, 1784)",Isognomostoma isognomostomos,0.035,1
+indet.aegopinella,indet.aegopinella,genus,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Gastrodontoidea,Oxychilidae,Gondwiniinae,Aegopinella,xxxAegopinella,indet,NA,Aegopinella indet,NA,NA
+indet.carychium,indet.carychium,genus,Mollusca,Gastropoda,Pulmonata,Acteophila,Elloboidea,Carychiidae,xxxCarychiidae,Carychium,xxxCarychium,indet,NA,Carychium indet,NA,NA
+indet.clausiliidae,indet.clausiliidae,family,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Clausilioidea,Clausiliidae,xxxClausiliidae,xxxClausiliidae,xxxClausiliidae,indet,NA,Clausiliidae indet,NA,NA
+indet.daudebardia,indet.daudebardia,genus,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Gastrodontoidea,Oxychilidae,Daudebardiinae,Daudebardia,xxxDaudebardia,indet,NA,Daudebardia indet,NA,NA
+indet.gastropoda,indet.gastropoda,class,Mollusca,Gastropoda,Pulmonata,xxxPulmonata,xxxPulmonata,xxxPulmonata,xxxPulmonata,xxxPulmonata,xxxPulmonata,indet,NA,Gastropoda indet,NA,NA
+indet.helicidae,indet.helicidae,family,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Helicoidea,Helicidae,xxxHelicidae,xxxHelicidae,xxxHelicidae,indet,NA,Helicidae indet,NA,NA
+indet.limacidae,indet.limacidae,family,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Limacoidea,Limacidae,xxxLimacidae,xxxLimacidae,xxxLimacidae,indet,NA,Limacidae indet,NA,NA
+indet.vertigo,indet.vertigo,genus,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Pupilloidea,Vertiginidae,Vertigininae,Vertigo,xxxVertigo,indet,NA,Vertigo indet,NA,NA
+indet.vitrea,indet.vitrea,genus,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Gastrodontoidea,Pristilomatidae,xxxPristilomatidae,Vitrea,xxxVitrea,indet,NA,Vitrea indet,NA,NA
+lpli,lpli,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Clausilioidea,Clausiliidae,Baleinae,Laciniaria,xxxLaciniaria,plicata,"(Draparnaud, 1801)",Laciniaria plicata,0.192,0
+mbor,mbor,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Clausilioidea,Clausiliidae,Clausiliinae,Macrogastra,Pyrostoma,borealis bielzi,"H. Nordsieck, 1993",Macrogastra borealis bielzi,0.023,0
+mobs,mobs,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Enoidea,Enidae,Mulitidentulini,Merdigera,xxxMerdigera,obscura,"(O. F. Müller, 1774)",Merdigera obscura,0.188,0
+mpli,mpli,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Clausilioidea,Clausiliidae,Clausiliinae,Macrogastra,Pyrostoma,plicatula,(Draparnaud 1801),Macrogastra plicatula,0.019,0
+mven,mven,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Clausilioidea,Clausiliidae,Clausiliinae,Macrogastra,Macrogastra,ventricosa,"(Draparnaud, 1801)",Macrogastra ventricosa,0.117,0
+odol,odol,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Pupilloidea,Orculidae,Orculinae,Orcula,xxxOrcula,dolium,"(Draparnaud, 1801)",Orcula dolium,0.051,1
+ogla,ogla,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Gastrodontoidea,Oxychilidae,Oxychilinae,Morlina,xxxMorlina,glabra striaria,"(Westerlund, 1881)",Morlina glabra striaria,0.17,0
+pinc,pinc,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Helicoidea,Hygromiidae,Hygromiinae,Monachoides,xxxMonachoides,incarnatus,"(O. F. Müller, 1774)",Monachoides incarnatus,0.324,0
+pmus,pmus,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Pupilloidea,Pupillidae,xxxPupillidae,Pupilla,xxxPupilla,muscorum,(Linnaeus 1758),Pupilla muscorum,0.424,0
+ppyg,ppyg,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Punctoidea,Punctidae,xxxPupillidae,Punctum,xxxPunctum,pygmaeum,"(Draparnaud, 1801)",Punctum pygmaeum,0.293,0
+pvic,pvic,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Helicoidea,Hygromiidae,Hygromiinae,Monachoides,xxxMonachoides,vicinus,"(Rossmässler, 1836)",Monachoides vicinus,0.041,1
+tuni,tuni,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Helicoidea,Hygromiidae,Hygromiinae,Petasina,xxxPetasina,unidentata,"(Draparnaud, 1805)",Petasina unidentata,0.051,1
+valp,valp,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Pupilloidea,Vertiginidae,Vertigininae,Vertigo,xxxVertigo,alpestris,Alder 1838,Vertigo alpestris,0.031,0
+vcos,vcos,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Pupilloidea,Valloniidae,Valloniinae,Vallonia,xxxVallonia,costata,(O.F. Müller 1774),Vallonia costata,0.544,0
+vico,vico,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Gastrodontoidea,Pristilomatidae,xxxPristilomatidae,Vitrea,xxxVitrea,contracta,(Westerlund 1871),Vitrea contracta,0.179,0
+vicr,vicr,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Gastrodontoidea,Pristilomatidae,xxxPristilomatidae,Vitrea,xxxVitrea,crystallina,"(O. F. Müller, 1774)",Vitrea crystallina,0.166,0
+vidi,vidi,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Gastrodontoidea,Pristilomatidae,xxxPristilomatidae,Vitrea,xxxVitrea,diaphana,"(S. Studer, 1820)",Vitrea diaphana,0.079,0
+vpul,vpul,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Pupilloidea,Valloniidae,Valloniinae,Vallonia,xxxVallonia,pulchella,(O.F. Muller 1774),Vallonia pulchella,0.61,0
+vpus,vpus,species,Mollusca,Gastropoda,Pulmonata,Stylommatophora,Pupilloidea,Vertiginidae,Vertigininae,Vertigo,xxxVertigo,pusilla,O.F. Muller 1774,Vertigo pusilla,0.106,0
