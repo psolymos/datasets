@@ -3,7 +3,7 @@
 Data set based on the meta-analysis of species–area relationships (SARs) 
 conducted by Solymos & Lele 2012.
 
-The data set has been extended.
+The data set has been extended since, additions made by P. Solymos and A. Nagy. 
 
 **When using the data, please cite Solymos & Lele 2012.**
 
