@@ -1,2 +1,2 @@
 # datasets
-Data sets from various projects
+Public data sets from various projects.
