@@ -3,7 +3,8 @@
 ## Summary
 
 A comprehensive and micro-scale land snail data set from 16 dolines of the
-Aggtelek Karst Area, Hungary, as described in Kemecei et al. 2014.
+Aggtelek Karst Area, Hungary, as described in Kemecei et al. 2014
+and Vilisics et al. 2008.
 
 ## Methods for Molluscs
 
