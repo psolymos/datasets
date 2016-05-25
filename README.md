@@ -62,7 +62,7 @@ quantitative data analyses.
 
 ## Citing the data
 
-Sólymos, P., Kemencei, Z. Páll-Gergely, B., Farkas, R., Vilisics, F., Nagy, A.,  Kisfali, M. & Hornung, E. (2016). Public data from the dolina project. DOI URL: [https://zenodo.org/badge/latestdoi/13424/psolymos/dolina-db](https://zenodo.org/badge/latestdoi/13424/psolymos/dolina-db)
+Sólymos, P., Kemencei, Z. Páll-Gergely, B., Farkas, R., Vilisics, F., Nagy, A.,  Kisfali, M. & Hornung, E. (2016). Public data from the dolina project. Version 1.0. DOI URL: [https://zenodo.org/badge/latestdoi/13424/psolymos/dolina-db](https://zenodo.org/badge/latestdoi/13424/psolymos/dolina-db)
 
 ## References
 
