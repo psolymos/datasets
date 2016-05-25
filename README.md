@@ -64,6 +64,10 @@ quantitative data analyses.
 
 Sólymos, P., Kemencei, Z. Páll-Gergely, B., Farkas, R., Vilisics, F., Nagy, A.,  Kisfali, M. & Hornung, E. (2016). Public data from the dolina project. Version 1.0. DOI: [10.5281/zenodo.53080](https://zenodo.org/badge/latestdoi/13424/psolymos/dolina-db)
 
+## License
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
 ## References
 
 Kemencei, Z., Farkas, R., Pall-Gergely, B., Vilisics, F., Nagy, A., Hornung,
