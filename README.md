@@ -2,7 +2,7 @@
 
 ## Summary
 
-A comprehensive and micro-scale land snail data set from 16 dolines of the
+A comprehensive and micro-scale land snail and isopoda data set from 16 dolines of the
 Aggtelek Karst Area, Hungary, as described in Kemecei et al. 2014
 and Vilisics et al. 2008.
 
@@ -66,15 +66,15 @@ E. & Solymos, P. (2014): Microhabitat associations of land snails in
 forested dolinas: implications for coarse filter conservation.
 Community Ecology 15:180--186.
 
-Vilisics, F., SÛlymos, P., Nagy, A., Farkas, R., Kemencei, Z. & Hornung, E. (2011): Small scale gradient effects on isopods (Crustacea, Oniscidea) in karstic sink holes. Biologia Bratislava, 66: 499-505.
+Vilisics, F., S√≥lymos, P., Nagy, A., Farkas, R., Kemencei, Z. & Hornung, E. (2011): Small scale gradient effects on isopods (Crustacea, Oniscidea) in karstic sink holes. Biologia Bratislava, 66: 499-505.
 
-SÛlymos, P., Farkas, R., Kemencei, Z., P·ll-Gergely, B., Vilisics, F., Nagy, A., Kisfali, M. & Hornung, E. (2009): Micro-habitat scale survey of land snails in dolines of the AlsÛ-hegy, Aggtelek National Park, Hungary. Mollusca, 27(2): 167-171.
+S√≥lymos, P., Farkas, R., Kemencei, Z., P√°ll-Gergely, B., Vilisics, F., Nagy, A., Kisfali, M. & Hornung, E. (2009): Micro-habitat scale survey of land snails in dolines of the Als√≥-hegy, Aggtelek National Park, Hungary. Mollusca, 27(2): 167-171.
 
-SÛlymos, P., Kemencei, Z., P·ll-Gergely, B., Farkas, R., Vilisics, F. & Hornung, E. (2009): Does shell accumulation matter in micro scale land snail surveys? Malacologia, 51(2): 389-393.
+S√≥lymos, P., Kemencei, Z., P√°ll-Gergely, B., Farkas, R., Vilisics, F. & Hornung, E. (2009): Does shell accumulation matter in micro scale land snail surveys? Malacologia, 51(2): 389-393.
 
-SÛlymos, P. (2009): Processing ecological data in R with the mefa package. Journal of Statistical Software, 29(8): 1-28.
+S√≥lymos, P. (2009): Processing ecological data in R with the mefa package. Journal of Statistical Software, 29(8): 1-28.
 
-SÛlymos, P., Vilisics, F., Kemencei, Z., P·ll-Gergely, B., Farkas, R., Nagy, A., Kisfali, M. & Hornung, E. (2009): Glob·lis v·ltoz·s, lok·lis t˙lÈlÈs: kitettsÈg Ès nedvessÈgi gr·diens hat·sa avarlakÛ gerinctelenekre. TermÈszetvÈdelmi KˆzlemÈnyek, 15: 396-411.
+S√≥lymos, P., Vilisics, F., Kemencei, Z., P√°ll-Gergely, B., Farkas, R., Nagy, A., Kisfali, M. & Hornung, E. (2009): Glob√°lis v√°ltoz√°s, lok√°lis t√∫l√©l√©s: kitetts√©g √©s nedvess√©gi gr√°diens hat√°sa avarlak√≥ gerinctelenekre. Term√©szetv√©delmi K√∂zlem√©nyek, 15: 396-411.
 
-Vilisics, F., Nagy, A., SÛlymos, P., Farkas, R., Kemencei, Z. P·ll-Gergely, B., Kisfali, M. & Hornung, E. (2008): Data on the terrestrial Isopoda fauna of the AlsÛ-hegy, Aggtelek National Park, Hungary. Folia Faunistica Slovaca, 13: 9-12.
+Vilisics, F., Nagy, A., S√≥lymos, P., Farkas, R., Kemencei, Z. P√°ll-Gergely, B., Kisfali, M. & Hornung, E. (2008): Data on the terrestrial Isopoda fauna of the Als√≥-hegy, Aggtelek National Park, Hungary. Folia Faunistica Slovaca, 13: 9-12.
 
