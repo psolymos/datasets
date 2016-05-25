@@ -44,7 +44,7 @@ dead (empty shells with different levels of shell deterioration.
 
 For more details see References.
 
-**If using the Mollusca data, please cite Kemencei et al. 2014.**
+**If using the Mollusca data, please cite Kemencei et al. 2014 along with the data citation given below.**
 
 ## Methods for Isopods
 
@@ -58,8 +58,11 @@ minutes with sampling altogether in each doline.
 Time sampling provides data eligible in respect of 
 quantitative data analyses.
 
-**If using the Isopoda data, please cite Vilisics et al. 2008.**
+**If using the Isopoda data, please cite Vilisics et al. 2008 along with the data citation given below.**
 
+## Citing the data
+
+Sólymos, P., Kemencei, Z. Páll-Gergely, B., Farkas, R., Vilisics, F., Nagy, A.,  Kisfali, M. & Hornung, E. (2016). Public data from the dolina project. DOI URL: [https://zenodo.org/badge/latestdoi/13424/psolymos/dolina-db](https://zenodo.org/badge/latestdoi/13424/psolymos/dolina-db)
 
 ## References
 
