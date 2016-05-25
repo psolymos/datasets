@@ -6,6 +6,8 @@ A comprehensive and micro-scale land snail and isopoda data set from 16 dolines 
 Aggtelek Karst Area, Hungary, as described in Kemecei et al. 2014
 and Vilisics et al. 2008.
 
+[![DOI](https://zenodo.org/badge/13424/psolymos/dolina-db.svg)](https://zenodo.org/badge/latestdoi/13424/psolymos/dolina-db)
+
 ## Methods for Molluscs
 
 Land snails were sampled during daylight hours between
